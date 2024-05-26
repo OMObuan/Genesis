@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/omo/code-space/cpp/Genesis",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-Wextra", "-Weffc++", "-O3", "-std=c++20", "-Iinclude", "-I", "/home/omo/.xmake/packages/e/eigen/3.4.0/c95d81810dbc45229e675130ada7d4c7/include", "-I", "/home/omo/.xmake/packages/e/eigen/3.4.0/c95d81810dbc45229e675130ada7d4c7/include/eigen3", "-I", "/home/omo/.xmake/packages/g/gtest/v1.14.0/1396d24d20ce4a17a0d869a0dd56d9ba/include", "-DNDEBUG", "-o", "build/.objs/Genesis/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
